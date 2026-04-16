@@ -24,13 +24,26 @@ It introduces practical skills such as configuring network devices, using virtua
 
 ### 2. Software Setup
  - I installed Vertualbox and GNS3.
- - Create GitHub Repository.
+ - Create private GitHub Repository.
+ - svreenshot
     
-### 3. GitHub Repository
-- Repository name: `[student-number]-COIT20261-2026T1`  
-- Visibility: Private  
-- Shared with: [Tutor’s GitHub username]  
-Screenshot or link:  
-`(Insert image or GitHub link here)`
----
+## Section B – GNS3 Hands‑On Task
+**Objective**  
+Create a simple GNS3 project with one Linux host and configure a static IP.
+| Item | Details |
+|------|----------|
+| Project Name | GNS3‑Intro‑12312209 |
+| Node | Linux Host |
+| IP Address | 10.10.1.101 |
+| Netmask | 255.255.255.0 |
 
+**Network Configuration – /etc/network/interfaces**
+
+    auto eth0   
+    iface eth0 inet static
+        address 10.10.1.1
+        netmask 255.255.255.0
+       up sysctl net.ipv4.ipforward=0
+
+## To show IP address details
+ ip address show    
