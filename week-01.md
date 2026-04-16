@@ -1,11 +1,8 @@
 
 # COIT20261 – Week 01 Portfolio
-**Name:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
-**Unit Code:** COIT20261  
-**Term:** 2026 Term 1  
-**Tutor:** [Tutor Name]  
-**Date:** [Insert Date]
+**Name:** Ayushiben Patel
+**Student ID:** 12312209 
+**Unit Code:** COIT20261   
 ---
 ## Section A – Setup and Preparation
 ### 1. Understanding the Unit
