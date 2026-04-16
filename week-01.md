@@ -1,1 +1,41 @@
 
+# COIT20261 – Week 01 Portfolio
+**Name:** [Your Full Name]  
+**Student ID:** [Your Student ID]  
+**Unit Code:** COIT20261  
+**Term:** 2026 Term 1  
+**Tutor:** [Tutor Name]  
+**Date:** [Insert Date]
+---
+## Section A – Setup and Preparation
+### 1. Understanding the Unit
+Briefly summarise what you learned about this unit from the Unit Profile:
+- Purpose of the unit:
+- Key learning outcomes:
+- Description of the portfolio assessment:
+---
+### 2. Software Setup
+List the software tools you have installed and verified:
+| Software | Version | Status (Installed/Configured) | Notes |
+|-----------|----------|-------------------------------|-------|
+| VirtualBox | | | |
+| GNS3 | | | |
+| Git | | | |
+---
+### 3. GitHub Repository
+- Repository name: `[student-number]-COIT20261-2026T1`  
+- Visibility: Private  
+- Shared with: [Tutor’s GitHub username]  
+Screenshot or link:  
+`(Insert image or GitHub link here)`
+---
+### 4. Markdown Practice
+Briefly describe your experience using Markdown so far:
+- Key Markdown features you’ve learned  
+- How Markdown helps document technical tasks  
+Example Markdown snippet:
+```markdown
+**Bold Text**, *Italic Text*, `Inline Code`
+1. Numbered list item
+2. Another item
+![Example Image](example.png)
