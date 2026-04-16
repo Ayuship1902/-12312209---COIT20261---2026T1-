@@ -46,5 +46,9 @@ Create a simple GNS3 project with one Linux host and configure a static IP.
        up sysctl net.ipv4.ipforward=0
 
 ## To show IP address details
- ip address show    
+ ip address show   
 ![](GNS3-Intro-12312209-ipaddress.png)
+
+Network Topology
+![](GNS3-Intro-12312209-network.png)
+
