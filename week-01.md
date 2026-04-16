@@ -1,24 +1,31 @@
 
 # COIT20261 – Week 01 Portfolio
-**Name:** [Ayushiben Patel]
-**Student ID:** [12312209] 
-**Unit Code:** [COIT20261]   
----
+ Name: Ayushiben Patel
+ 
+ Student ID: 12312209
+
+ Unit Name: Network Services and Automation
+ 
+ Unit code: COIT20261 
+
 ## Section A – Setup and Preparation
 ### 1. Understanding the Unit
-Briefly summarise what you learned about this unit from the Unit Profile:
-- Purpose of the unit:
-- Key learning outcomes:
-- Description of the portfolio assessment:
----
+Section A – Setup and Preparation
+Understanding the Unit
+
+This unit focuses on the foundational concepts of networking and cybersecurity. 
+It introduces practical skills such as configuring network devices, using virtual environments, simulating networks with GNS3, and documenting technical work professionally using GitHub and Markdown.  
+
+### Key learnings from the Unit Profile:
+  • Understand network design, simulation, and troubleshooting using GNS3.  
+  • Gain hands-on skills in Linux network configuration.  
+  • Build a professional portfolio to showcase practical tasks and teamwork.  
+  • Develop version-control and documentation practices through GitHub.
+
 ### 2. Software Setup
-List the software tools you have installed and verified:
-| Software | Version | Status (Installed/Configured) | Notes |
-|-----------|----------|-------------------------------|-------|
-| VirtualBox | | | |
-| GNS3 | | | |
-| Git | | | |
----
+ - I installed Vertualbox and GNS3.
+ - Create GitHub Repository.
+    
 ### 3. GitHub Repository
 - Repository name: `[student-number]-COIT20261-2026T1`  
 - Visibility: Private  
@@ -26,13 +33,4 @@ List the software tools you have installed and verified:
 Screenshot or link:  
 `(Insert image or GitHub link here)`
 ---
-### 4. Markdown Practice
-Briefly describe your experience using Markdown so far:
-- Key Markdown features you’ve learned  
-- How Markdown helps document technical tasks  
-Example Markdown snippet:
-```markdown
-**Bold Text**, *Italic Text*, `Inline Code`
-1. Numbered list item
-2. Another item
-![Example Image](example.png)
+
