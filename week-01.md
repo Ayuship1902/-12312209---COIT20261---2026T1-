@@ -47,4 +47,4 @@ Create a simple GNS3 project with one Linux host and configure a static IP.
 
 ## To show IP address details
  ip address show    
-![](images/GNS3-Intro-12312209-ipaddress.png)
+![](GNS3-Intro-12312209-ipaddress.png)
