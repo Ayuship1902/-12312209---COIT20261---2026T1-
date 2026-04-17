@@ -47,8 +47,8 @@ Create a simple GNS3 project with one Linux host and configure a static IP.
 
 ## To show IP address details
  ip address show   
-![](GNS3-Intro-12312209-ipaddress.png)
+![](images/GNS3-Intro-12312209-ipaddress.png)
 
 Network Topology
-![](GNS3-Intro-12312209-network.png)
+![](images/GNS3-Intro-12312209-network.png)
 
