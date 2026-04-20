@@ -73,12 +73,12 @@ From Host A to Host B:
 ping 10.10.1.102
 Observed:
 - I got replies successfully
--  RTT time was shown.
+- RTT time was shown.
 
 ####  Ping to Wrong IP
   Observed:
-- t no replies
-- all packets were lost.
+- No replies
+- All packets were lost.
 
  #### Ping with Options
   Observed:
@@ -90,8 +90,11 @@ Observed:
 - Ping normal output
 ![](images/Ping-Basics-12312209simple.png)
 
-- Ping wrong IP  
-- Ping with options  
+- Ping wrong IP
+![](images/Ping-Basics-12312209-Error.png)
+   
+- Ping with options
+ ![](images/Ping-Basics-12312209-option.png)
 
  
 
