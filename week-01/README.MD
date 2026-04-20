@@ -10,11 +10,7 @@
 
 ## Section A – Setup and Preparation
 ### 1. Understanding the Unit
-Section A – Setup and Preparation
-Understanding the Unit
-
-This unit focuses on the foundational concepts of networking and cybersecurity. 
-It introduces practical skills such as configuring network devices, using virtual environments, simulating networks with GNS3, and documenting technical work professionally using GitHub and Markdown.  
+   I reviewed the unit profile to understand the course structure and assessment requirements.I learned that I need to make a GitHub portfolio and add my tutorial work to it each week, like screenshots, tests, and reflections. This portfolio counts for 20% of my final grade.
 
 ### Key learnings from the Unit Profile:
   • Understand network design, simulation, and troubleshooting using GNS3.  
