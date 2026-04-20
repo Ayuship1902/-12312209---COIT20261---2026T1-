@@ -30,6 +30,12 @@ Both programs are needed for the networking labs.
 
 I also shared the repository with my tutor.
 
+
+## 4. Task 1 – GNS3 Basics
+
+###  Aim
+To learn basic GNS3 operations such as creating a project, adding a node, configuring an IP address, and running Linux commands.
+
 **Objective**  
 Create a simple GNS3 project with one Linux host and configure a static IP.
 | Item | Details |
