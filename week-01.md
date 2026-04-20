@@ -66,12 +66,31 @@ To learn basic GNS3 operations such as creating a project, adding a node, config
 8. Verified IP using command:
 ip addr show
 
-5. Screenshots
+## 5. Screenshots
 
 ### Network Topology   
 ![](images/GNS3-Intro-12312209-network.png)
 
 ### IP Address
 ![](images/GNS3-Intro-12312209-ipaddress.png)
+
+##  6. Testing Results
+- The node ran properly with no errors.
+- The IP address 10.10.1.1 showed up correctly.
+- Everything worked the way it was supposed to.
+
+##  7. Key Learnings
+- i Learned how to create a project in GNS3  
+- I also learned how to set a static IP in Linux.
+- I useed the  ip address show command  
+- I understood how to turn off IP forwarding.
+
+##  8. Reflection
+This week helped me get used to the basic tools for the networking labs. At first, editing the /etc/network/interfaces file was confusing, but after practising, I understood how static IP setup works.
+
+I also learned how to use GitHub to keep a portfolio, which will help me track my work during the term.
+
+##  Conclusion
+Week 1 gave me a good start with the networking tools and basic setup. I now feel more confident using GNS3 and Linux commands for the next labs.
 
 
