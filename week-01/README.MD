@@ -53,30 +53,25 @@ To learn basic GNS3 operations such as creating a project, adding a node, config
 
 5. Configured static IP in  /etc/network/interfaces :
 
-       `  auto eth0   
+         auto eth0   
          iface eth0 inet static
              address 10.10.1.101
              netmask 255.255.255.
-             up sysctl net.ipv4.ipforward=0 `
-   
-**Objective**  
-Create a simple GNS3 project with one Linux host and configure a static IP.
-| Item | Details |
-|------|----------|
-| Project Name | GNS3‑Intro‑12312209 |
-| Node | Linux Host |
-| IP Address | 10.10.1.101 |
-| Netmask | 255.255.255.0 |
+             up sysctl net.ipv4.ipforward=0 
 
-**Network Configuration – /etc/network/interfaces**
+6. Started the node  
 
-    
+7. Opened web console  
 
+8. Verified IP using command:
+ip addr show
 
-## To show IP address details
- ip address show   
-![](images/GNS3-Intro-12312209-ipaddress.png)
+5. Screenshots
 
-Network Topology
+### Network Topology   
 ![](images/GNS3-Intro-12312209-network.png)
+
+### IP Address
+![](images/GNS3-)
+
 
