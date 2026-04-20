@@ -42,7 +42,7 @@ ip address show
 
 ##  Screenshots
 - Network topology
-
+![](images/Setting-ip-12312209-network.png)
   
 - Host A IP output  
 - Host B IP output  
