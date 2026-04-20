@@ -52,11 +52,11 @@ To learn basic GNS3 operations such as creating a project, adding a node, config
    10.10.1.101
 
 5. Configured static IP in  /etc/network/interfaces :
-        auto eth0   
-      iface eth0 inet static
-        address 10.10.1.1
-        netmask 255.255.255.0
-       up sysctl net.ipv4.ipforward=0
+      `  auto eth0   
+        iface eth0 inet static
+           address 10.10.1.101
+           netmask 255.255.255.0
+           up sysctl net.ipv4.ipforward=0 `
    
 **Objective**  
 Create a simple GNS3 project with one Linux host and configure a static IP.
