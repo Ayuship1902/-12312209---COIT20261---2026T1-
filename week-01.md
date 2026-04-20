@@ -10,7 +10,7 @@
 
 ## Section A – Setup and Preparation
 ### 1. Understanding the Unit
-   I reviewed the unit profile to understand the course structure and assessment requirements.I learned that I need to make a GitHub portfolio and add my tutorial work to it each week, like screenshots, tests, and reflections. This portfolio counts for 20% of my final grade.
+   I reviewed the unit profile to understand the course structure and assessment requirements. I learned that I need to make a GitHub portfolio and add my tutorial work to it each week, like screenshots, tests, and reflections. This portfolio counts for 20% of my final grade.
 
 ### 2. Software Setup
    I installed the software I needed for the unit.
@@ -19,7 +19,7 @@ Both programs are needed for the networking labs.
 
 
 ### 3. GitHub Repository
-## Section B – GNS3 Hands‑On Task
+
   I created a private GitHub repository and give me name like : 12312209---COIT20261---2026T1-
 
 I also shared the repository with my tutor.
