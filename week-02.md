@@ -51,7 +51,7 @@ ip address show
  ![](images/Setting-IP-12312209-Host2.png)
 
 - Host 3 IP output
-  ![](images/Setting-ip-12312209-Host3.png)
+  ![](images/Setting-IP-12312209-Host3.png)
   
 - Host 4 IP output
    ![](images/Setting-IP-12312209-Host4.png)
