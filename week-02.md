@@ -71,27 +71,25 @@ ip address show
 ####  Normal Ping
 From Host A to Host B:
 ping 10.10.1.102
-
 Observed:
 - I got replies successfully
 -  RTT time was shown.
 
 ####  Ping to Wrong IP
-
-Observed:
+  Observed:
 - t no replies
 - all packets were lost.
 
  #### Ping with Options
-
- Observed:
+  Observed:
 - Limited number of packets   
 - Data size changed  
 
 ## Screenshots
 
 - Ping normal output
-  
+![](images/Ping-Basics-12312209simple.png)
+
 - Ping wrong IP  
 - Ping with options  
 
