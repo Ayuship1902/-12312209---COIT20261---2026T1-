@@ -26,7 +26,10 @@ Both programs are needed for the networking labs.
 
 ### 3. GitHub Repository
 ## Section B – GNS3 Hands‑On Task
-  I created a private GitHub repository and give me name like : 
+  I created a private GitHub repository and give me name like : 12312209---COIT20261---2026T1-
+
+I also shared the repository with my tutor.
+
 **Objective**  
 Create a simple GNS3 project with one Linux host and configure a static IP.
 | Item | Details |
