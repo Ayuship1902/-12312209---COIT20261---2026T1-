@@ -12,12 +12,6 @@
 ### 1. Understanding the Unit
    I reviewed the unit profile to understand the course structure and assessment requirements.I learned that I need to make a GitHub portfolio and add my tutorial work to it each week, like screenshots, tests, and reflections. This portfolio counts for 20% of my final grade.
 
-### Key learnings from the Unit Profile:
-  • Understand network design, simulation, and troubleshooting using GNS3.  
-  • Gain hands-on skills in Linux network configuration.  
-  • Build a professional portfolio to showcase practical tasks and teamwork.  
-  • Develop version-control and documentation practices through GitHub.
-
 ### 2. Software Setup
    I installed the software I needed for the unit.
 VirtualBox is for running virtual machines, and GNS3 is for simulating networks.
