@@ -48,13 +48,13 @@ ip address show
 ![](images/Setting-ip-12312209-Host1.png)
 
 - Host B IP output
- ![](images/Setting-ip-12312209-Host2.png)
+ ![](images/Setting-IP-12312209-Host2.png)
 
 - Host C IP output
   ![](images/Setting-ip-12312209-Host3.png)
   
 - Host D IP output
-  ![](images/Setting-ip-12312209-Host4.png)
+  ![](images/Setting-Ip-12312209-Host4.png)
 ###  Aim
   To check if the network is working and see the delay, I used the ping command.
 
