@@ -70,7 +70,7 @@ ip addr show
 
 ##  6. Testing Results
 - The node ran properly with no errors.
-- The IP address 10.10.1.1 showed up correctly.
+- The IP address 10.10.1.101 showed up correctly.
 - Everything worked the way it was supposed to.
 
 ##  7. Key Learnings
