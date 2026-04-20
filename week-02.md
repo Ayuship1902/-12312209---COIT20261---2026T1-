@@ -44,16 +44,16 @@ ip address show
 - Network topology
 ![](images/Setting-ip-12312209-network.png)
   
-- Host A IP output
+- Host 1 IP output
 ![](images/Setting-ip-12312209-Host1.png)
 
-- Host B IP output
+- Host 2 IP output
  ![](images/Setting-IP-12312209-Host2.png)
 
-- Host C IP output
+- Host 3 IP output
   ![](images/Setting-ip-12312209-Host3.png)
   
-- Host D IP output
+- Host 4 IP output
    ![](images/Setting-IP-12312209-Host4.png)
   
 ###  Aim
