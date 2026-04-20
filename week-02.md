@@ -91,7 +91,7 @@ Observed:
 ![](images/Ping-Basics-12312209simple.png)
 
 - Ping wrong IP
-![](images/Ping-Basics-12312209-Error.png)
+![](images/Ping-Basics-12312209simple.png)
    
 - Ping with options
  ![](images/Ping-Basics-12312209-option.png)
