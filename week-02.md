@@ -44,10 +44,17 @@ ip address show
 - Network topology
 ![](images/Setting-ip-12312209-network.png)
   
-- Host A IP output  
-- Host B IP output  
-- Host C IP output  
+- Host A IP output
+![](images/Setting-ip-12312209-Host1.png)
+
+- Host B IP output
+ ![](images/Setting-ip-12312209-Host2.png)
+
+- Host C IP output
+  ![](images/Setting-ip-12312209-Host3.png)
+  
 - Host D IP output
+  ![](images/Setting-ip-12312209-Host4.png)
 ###  Aim
   To check if the network is working and see the delay, I used the ping command.
 
