@@ -36,6 +36,23 @@ I also shared the repository with my tutor.
 ###  Aim
 To learn basic GNS3 operations such as creating a project, adding a node, configuring an IP address, and running Linux commands.
 
+###  Steps Performed
+1. Created a new project named:  
+   `GNS3-Intro-<studentID>`
+
+2. Added one **Linux Host node**
+
+3. Added text in the workspace including:
+   - Name  
+   - Student ID  
+   - Date  
+   - Project title  
+
+4. Selected IP address:  
+   10.10.1.101
+
+5. Configured static IP in  /etc/network/interfaces :
+
 **Objective**  
 Create a simple GNS3 project with one Linux host and configure a static IP.
 | Item | Details |
