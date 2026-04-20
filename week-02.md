@@ -10,7 +10,7 @@
 ##  1. Overview
 In Week 2, I learned how to set static IP addresses on Linux in different ways. I also learned how to check if devices can talk to each other by using the ping command. This week was very hands‑on and helped me understand how devices communicate in a network.
 
-## 🛠️ 2. Task 1 – Setting Static IP Addresses
+##  2. Task 1 – Setting Static IP Addresses
 
 ### Aim 
 The aim was to learn three different ways to set static IP addresses on Linux hosts.
@@ -55,7 +55,45 @@ ip address show
   
 - Host 4 IP output
    ![](images/Setting-IP-12312209-Host4.png)
-  
+
+  ##  Testing Results
+- All hosts successfully received IP addresses  
+- All devices were connected in same network  
+- No errors in configuration  
+
+##  3. Task 2 – Testing Connectivity with Ping
+
 ###  Aim
   To check if the network is working and see the delay, I used the ping command.
+
+###  Steps Performed
+
+####  Normal Ping
+From Host A to Host B:
+ping 10.10.1.102
+
+Observed:
+- I got replies successfully
+-  RTT time was shown.
+
+####  Ping to Wrong IP
+
+Observed:
+- t no replies
+- all packets were lost.
+
+ #### Ping with Options
+
+ Observed:
+- Limited number of packets   
+- Data size changed  
+
+## Screenshots
+
+- Ping normal output
+  
+- Ping wrong IP  
+- Ping with options  
+
+ 
 
