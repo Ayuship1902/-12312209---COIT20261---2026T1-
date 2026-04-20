@@ -19,11 +19,14 @@
   • Develop version-control and documentation practices through GitHub.
 
 ### 2. Software Setup
- - I installed Vertualbox and GNS3.
- - Create private GitHub Repository.
- - svreenshot
-    
+   I installed the software I needed for the unit.
+VirtualBox is for running virtual machines, and GNS3 is for simulating networks.
+Both programs are needed for the networking labs.
+
+
+### 3. GitHub Repository
 ## Section B – GNS3 Hands‑On Task
+  I created a private GitHub repository and give me name like : 
 **Objective**  
 Create a simple GNS3 project with one Linux host and configure a static IP.
 | Item | Details |
