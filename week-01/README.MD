@@ -72,6 +72,6 @@ ip addr show
 ![](images/GNS3-Intro-12312209-network.png)
 
 ### IP Address
-![](images/GNS3-)
+![](images/GNS3-Intro-12312209-ipaddress.png)
 
 
